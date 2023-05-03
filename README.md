@@ -1,6 +1,5 @@
 # chatgpt-prompts
  <https://chat.openai.com/>
- Some of these work better (or at least differently) than others. They all exploit the "role play" training model.
 <ul>
 <li>
 <details open="open">
